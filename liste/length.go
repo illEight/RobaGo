@@ -1,4 +1,4 @@
-package main
+package liste
 
 //Givene the pointer to the first node of a list, returns the number of elements => bisogna quinidi scandire la lista tramite un cursore curs (puntatore)
 
