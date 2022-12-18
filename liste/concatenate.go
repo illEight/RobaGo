@@ -1,4 +1,4 @@
-package main
+package liste
 
 /* creare funzione concatenate
 che date due liste le concatena
