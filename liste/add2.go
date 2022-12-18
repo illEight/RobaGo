@@ -1,4 +1,4 @@
-package main
+package liste
 
 
 //se la lista di stringhe è già in ordine alfabetico e viene chiamata questa funzione, verrà aggiunta stringa x mantenendo la lista ordinata in ordine alfabetico
