@@ -1,5 +1,5 @@
 /* dichiara due puntatori a nodi (p1 e p2) e collega questi due nodi */
-package main
+package liste
 import "fmt"
 
 func main(){

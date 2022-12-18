@@ -1,4 +1,4 @@
-package main
+package liste
 
 /* dato il primo elemento di una lista e una nuova stringa aggiunge quella stringa all'inizio di quella lista
  deve quindi restituire il nuovo puntatore che punta a quel nuov elemento aggiunto in cima alla lista */

@@ -1,4 +1,4 @@
-package main
+package liste
 import "fmt"
 
 //funzione per stampare valore nodi della lista
